@@ -14,4 +14,48 @@ miRDB: miRNA binding site prediction software
 
 http://mirdb.org/
 
+![pic1](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.27.48 AM.png)
+![pic2](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.28.21 AM.png)
 
+![pic3](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.28.58 AM.png)
+
+![pic4](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.29.15 AM.png)
+
+![5](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.29.48 AM.png)
+
+![6](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.30.06 AM.png)
+
+![7](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.30.28 AM.png)
+
+![8](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.30.44 AM.png)
+
+![9](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.31.29 AM.png)
+
+![10](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.32.04 AM.png)
+
+![11](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.32.29 AM.png)
+
+![12](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.33.01 AM.png)
+
+![13](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.33.19 AM.png)
+
+![14](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.33.39 AM.png)
+
+![15](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.34.09 AM.png)
+
+![16](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.34.58 AM.png)
+
+![17](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.35.42 AM.png)
+
+![18](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.36.03 AM.png)
+
+![19](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.36.49 AM.png)
+
+![20](miRDB_screenshots_Bioinf_Prjct/miRDB_screenshots_Bioinf_Prjct/Screen Shot 2022-03-03 at 8.37.03 AM.png)
+
+![21]()
+
+
+
+
+![]()
