@@ -1,0 +1,17 @@
+---
+title: "miRDB_McGuireSams_GradProjec-BIOL6860"
+author: "Cierla McGuire Sams"
+date: "3/6/2022"
+output: html_document
+output: pdf
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+miRDB: miRNA binding site prediction software
+
+http://mirdb.org/
+
+
