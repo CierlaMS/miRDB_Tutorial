@@ -2,7 +2,7 @@
 title: "miRDB_McGuireSams_GradProjec-BIOL6860"
 author: "Cierla McGuire Sams"
 date: "3/6/2022"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
