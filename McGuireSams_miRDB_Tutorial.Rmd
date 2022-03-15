@@ -99,7 +99,17 @@ http://mirdb.org/
 
 ## This tutorial is meant to guide one through the steps of obtaining miRNA binding site predictions for a sequence of interest--this could be an entire cDNA (mRNA) sequence, or even simply a gene's 3' UTR (a common binding site for miRNAs). It is important to investigate the potential interaction of various miRNAs with target genes. For example, some miRNAs can have oncogenic properties when they bind and disrupt the localization of a DNA repair gene and cause aberrant protein expression to occur, promoting oncogenesis. (Si et al. citation below) miRDB is an excellent tool for guiding this investigation as it has an extensive databse of miRNAs and target genes. It also has a good amount of references populated for each miRNA, which is very useful when amassing literature for a review or academic research.
 
-## Although not covered in this tutorial, miRDB has other functions (as seen in Step 1 on the left side of the webpage) such as:Target Search, Target Expression, Target Ontology, Target Mining, FuncMir Collection, Data Download, and Statistics pages for extra resources when investigating both genes and miRNAs of interest. It also has a very useful 'Help | FAQ' page for further information on how the software functions and how they evaluated that a target score of >80 was predicted to be valid. 
+## Although not covered in this tutorial, miRDB has other functions (as seen in Step 1 on the left side of the webpage) such as:
+### Target Search http://mirdb.org/index.html (Search by miRNA name or by gene target)
+### Target Expression http://mirdb.org/expression.html (Identify a miRNA of interest and select a cell line of interest for target prediction.)
+### Target Ontology http://mirdb.org/ontology.html (Identify a miRNA of interest and select a Gene Ontology category for target functional analysis in PANTHER.)
+### Target Mining http://mirdb.org/mining.html (When searching for miRNA gene targets, full mature miRNA names are required. When searching for miRNAs, you may provide either NCBI gene IDs or official gene symbols.)
+### FuncMir Collection http://mirdb.org/FuncMir.html (FuncMir is a collection of functional miRNAs in humans and mice. Currently, FuncMir includes 568 human precursor miRNAs, 654 human mature miRNAs, 452 mouse precursor miRNAs and 442 mouse mature miRNAs.)
+### Data Download (miRDB Data Download set of Target Prediction Files)
+### Statistics pages (miRDB statistics on predicted miRNA gene targets in human, mouse, rat, dog and chicken.)
+## for extra resources when investigating both genes and miRNAs of interest. It also has a very useful 'Help | FAQ' page for further information on how the software functions and how they evaluated that a target score of >80 was predicted to be valid, for example. http://mirdb.org/faq.html
+
+## Next steps for the savvy researcher include using the information in this tutorial to obtain FASTA sequences for their own gene or miRNA of interest and utilizing not only the 'Custom Prediction' feature, but the others listed above to help understand the relationships between miRNAs and their targets and how they translate into disease or prevention of disease, etc.
 
 ## Overall, miRDB is an essential tool for predicting miRNA binding and gene targets. It is a great resource for not only making predictions, but also learning more about the literature behind each component. 
 
