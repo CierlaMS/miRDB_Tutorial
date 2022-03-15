@@ -2,8 +2,11 @@
 title: "miRDB_McGuireSams_GradProjec-BIOL6860"
 author: "Cierla McGuire Sams"
 date: "3/6/2022"
-output: html_document
-output: pdf
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ---
 
 ```{r setup, include=FALSE}
