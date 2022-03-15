@@ -13,7 +13,7 @@ miRDB: miRNA binding site prediction software
 
 http://mirdb.org/
 
-##miRDB is a great tool for predicting the binding sites of miRNAs in a transcript, and especially in the 3' UTR.
+## miRDB is a great tool for predicting the binding sites of miRNAs in a transcript, and especially in the 3' UTR.
 ### All that is needed for using this tool is a computer with WiFi.
 
 ### 1. Go to http://mirdb.org/
